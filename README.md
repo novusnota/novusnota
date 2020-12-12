@@ -11,7 +11,7 @@
 > (Who?)
 
 > My name is
-  
+
 > (Chika-chika)
 
 > Dimmed Gravy :)
@@ -27,8 +27,8 @@ My name is Yakov Gellert, and I love to do stuff. Many different stuff. Much do.
   - Management (Camille Fournier - The Manager's Path)
   - Public speaking/podcasts/streaming (check them out: \[not yet])
 - 🤔 I’m looking for help with PR and Meeting new people
-- 💬 Yo, hit me up on OpenLand: https://openland.com/yakovgellert
-- :bird: And on Twitter: https://twitter.com/novusnota
+- 💬 Yo, hit me up on OpenLand: [Click](https://openland.com/yakovgellert)
+- :bird: And on Twitter: [Click](https://twitter.com/novusnota)
 
 > Learn quickly, stay hungry, stay foolish.
 
@@ -41,3 +41,4 @@ to say thanks, please [sponsor me here on GitHub](https://github.com/sponsors/no
 
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/thosjo)
 [![Keybase](https://img.shields.io/badge/-Keybase-yellowgreen?style=flat-square)](https://keybase.io/konstruktoid)-->
+
