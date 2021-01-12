@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/novusnota">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=novusnota&show_icons=true&count_private=true&theme=react"
+      src="https://github-readme-stats.vercel.app/api?username=novusnota&show_icons=true&count_private=true&theme=react&hide_border=true"
       alt="novusnota GitHub stats"/>
   </a>
 </p>
