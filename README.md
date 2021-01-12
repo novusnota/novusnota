@@ -6,7 +6,7 @@
       src="https://api.ghprofile.me/view?username=novusnota&style=flat-square&label=Profile%20Views&logo=github"
       alt="novusnota's Profile View Count"/>
   </a>
-  <a href="https://twitter.com/novusnota">
+  <a href="https://twitter.com/novusnota" target="_blank">
     <img
       src="https://img.shields.io/badge/Twitter-novusnota-%231DA1F2?logo=twitter&style=flat-square"
       alt="novusnota's Twitter"/>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mynameismax">
+  <a href="https://github.com/novusnota">
     <img
       src="https://github-readme-stats.vercel.app/api?username=novusnota&show_icons=true&count_private=true&theme=react"
       alt="novusnota GitHub stats"/>
