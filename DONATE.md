@@ -2,7 +2,7 @@
 
 If you'd like to support me or my non-commercial projects and educational efforts — you can do that here. Your donations **really motivate** me to continue working on awesome stuff, add new features, remove bugs, and help people be awesome 🤘
 
-If you've donated, contact me on [X/Twitter](https://twitter.com/novusnota), [Telegram](https://t.me/novusnotabot) or Discord @novusnota — I'd like to personally thank you. Additionally, if you feel like it, I can add your name, link to your personal profile, a message or the name of the project you're donating for to the list of [supporters below](#paid-respects).
+If you've donated, contact me on [X/Twitter](https://twitter.com/novusnota), [Telegram](https://t.me/novusnotabot) or Discord @novusnota — I'd like to personally thank you. Additionally, if you feel like it, I can add your name, link to your personal profile, a message or the name of the project you're donating for to the list of [supporters below](#paid-respects-).
 
 You may:
 
