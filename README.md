@@ -2,7 +2,7 @@
   <samp>
     <a href="https://ko-fi.com/novusnota">me</a> . 
     <a href="https://gist.github.com/novusnota">blog</a> . 
-    <a href="https://github.com/novusnota-forks">contributions (github)</a> . 
+    <a href="https://github.com/novusnota-forks">forks (github)</a> . 
     <a href="https://github.com/novusnota/novusnota/blob/main/DONATE.md">pay respects</a>
   </samp>
 </p>
