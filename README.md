@@ -9,5 +9,6 @@
 
 <!--
   👋 Hello there!
-  🤫 Psst, here's a secret crypto-related blog: https://mirror.xyz/0xA1F88d9035F290779298684b4a92C057904bF531
+  🤫 Psst, here's a secret crypto-related blog: https://mirror.xyz/novusnota.eth
+  🧷 And its backup link, just in case: https://mirror.xyz/0xA1F88d9035F290779298684b4a92C057904bF531
 -->
