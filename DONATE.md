@@ -4,16 +4,6 @@ If you'd like to support me or my non-commercial projects and educational effort
 
 If you've donated, contact me on [X/Twitter](https://twitter.com/novusnota), [Telegram](https://t.me/novusnotabot) or Discord @novusnota — I'd like to personally thank you. Additionally, if you feel like it, I can add your name, link to your personal profile, a message or the name of the project you're donating for to the list of [supporters below](#paid-respects-).
 
-You may:
-
-<a href="https://ko-fi.com/novusnota">
-  <img
-    src="https://ko-fi.com/img/githubbutton_sm.svg"
-    alt="Support novusnota on ko-fi.com"/>
-</a>
-
-Or use crypto:
-
 <ul>
   <li>
     <a href="#toncoin">💎 Ton</a>
@@ -109,7 +99,7 @@ Scan it with your crypto wallet:
 
 ## Paid respects 🤍
 
-1. LilJacky (anonymous): **$120** (!!) through [Ko-Fi](https://ko-fi.com/novusnota)
+1. LilJacky (anonymous): **$120** (!!) through private transaction
 
 ---
 
